@@ -1,7 +1,10 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
+import { SearchBar } from './components/SearchBar';
 
 export class App extends Component {
     render () {
-        return <h1>Redux YouTube Browser</h1>
+        return (<div>
+            <SearchBar />
+        </div>);
     }
 }
