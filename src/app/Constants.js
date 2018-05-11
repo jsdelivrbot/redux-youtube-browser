@@ -1,1 +1,1 @@
-const YOUTUBE_API_KEY = 'AIzaSyB7Yny_u7XWz8aTvvTi2I8IEMf7ruM4ppQ';
+export const YOUTUBE_API_KEY = 'AIzaSyB7Yny_u7XWz8aTvvTi2I8IEMf7ruM4ppQ';

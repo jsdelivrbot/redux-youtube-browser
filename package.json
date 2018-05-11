@@ -9,6 +9,7 @@
     "start": "./node_modules/.bin/webpack-dev-server --config ./webpack/webpack.dev.config.js"
   },
   "dependencies": {
+    "lodash": "^4.17.10",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "webpack": "^4.5.0",
